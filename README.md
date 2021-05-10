@@ -10,6 +10,6 @@ Steps to run the project:<br />
 1.clone the repository.<br />
 2.install flask on your machine : pip install Flask<br />
 3.Install beautifulsoup : pip install beautifulsoup4<br />
-4.Install lxml : pip install lxml<br /><br />
+4.Install lxml : pip install lxml<br />
 5. Command to run the project : python -m flask run<br />
 6. Your local host will display the pages<br />
